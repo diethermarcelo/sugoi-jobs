@@ -10,7 +10,3 @@
 ## Features:
 
 ## Resources:
-UI/UX:
-    - https://dribbble.com/shots/20572310-Jobelia-Job-Finder-Platform-Dashboard
-
-
